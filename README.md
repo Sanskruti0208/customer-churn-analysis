@@ -73,7 +73,11 @@ streamlit run dashboard.py
 
 ## ☁️ Deployment
 
-Project deployed using Microsoft Azure and Streamlit.
+Project deployed using Streamlit.
+
+## Live Dashboard
+
+https://customer-churn-analysis-te62w3yfzhw.streamlit.app
 
 ---
 
